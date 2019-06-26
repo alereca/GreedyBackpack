@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ale/Documents/GreedyBackpack/Backpack.h
+vector
+-
+Element.h
+/home/ale/Documents/GreedyBackpack/Element.h
+
+/home/ale/Documents/GreedyBackpack/Element.h
+
+/home/ale/Documents/GreedyBackpack/RandomNumberGenerator.h
+random
+-
+
+/home/ale/Documents/GreedyBackpack/main.cpp
+iostream
+-
+time.h
+-
+Element.h
+/home/ale/Documents/GreedyBackpack/Element.h
+Backpack.h
+/home/ale/Documents/GreedyBackpack/Backpack.h
+RandomNumberGenerator.h
+/home/ale/Documents/GreedyBackpack/RandomNumberGenerator.h
+
